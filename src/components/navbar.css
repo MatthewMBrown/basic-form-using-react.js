@@ -1,0 +1,12 @@
+.nav-container{
+    background-color: #eb3f27;; 
+    padding: 2rem;
+  }
+  
+.nav-title{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 30pt;
+    color: white;
+    text-transform: uppercase;
+  } 
+  
